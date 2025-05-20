@@ -56,7 +56,7 @@ function App() {
                   <li><a className="main_link" href="#">home</a></li>
                   <li><a className="main_link" href="#">About</a></li>
                   <li><a className="main_link" href="#">Services</a></li>
-                  <li><a className="main_link" href="https://www.behance.net/hamida_jannat">Portfolio</a></li>
+                  <li><a className="main_link" href="#">Portfolio</a></li>
                   <li><a className="main_link" href="#">Blog</a></li>
                   <li><a className="main_link" href="https://wa.me/9816424057">Contact</a></li>
                 </ul>
@@ -69,13 +69,13 @@ function App() {
                     <img src="/assets/img/logo.png" alt="" />
                   </a>
                   <div className="social_links d-none">
-                    <a href="https://www.behance.net/hamida_jannat">
+                    <a href="#">
                       <i className="uil uil-behance"></i>
                     </a>
-                    <a href="https://www.instagram.com/hamida_jannat20/">
+                    <a href="#">
                       <i className="uil uil-instagram"></i>
                     </a>
-                    <a href="https://dribbble.com/hamida_jannat">
+                    <a href="#">
                       <i className="uil uil-dribbble"></i>
                     </a>
                   </div>
@@ -482,7 +482,7 @@ function App() {
                             <span className="fsz-16 op-4 ms-2 text-capitalize">reviews</span>
                           </div>
                           <div className="main-txt">
-                            We really loved working with Hamida! Very creative, and understood our concept really quickly Thank you for your efforts!
+                            We really loved working with Amit! Very creative, and understood our concept really quickly Thank you for your efforts!
                           </div>
                           <div className="user-info">
                             <a href="#" className="butn-1 rounded-pill border-2 border border-dark1">
@@ -509,7 +509,7 @@ function App() {
                             <span className="fsz-16 op-4 ms-2 text-capitalize">reviews</span>
                           </div>
                           <div className="main-txt">
-                            I showed her my hand drawn mockup and what someone else had done with it and she took it and far exceeded my vision for the landing page and design. I HIGHLY recommend Hamida
+                            I showed her my hand drawn mockup and what someone else had done with it and she took it and far exceeded my vision for the landing page and design. I HIGHLY recommend Amit
                           </div>
                           <div className="user-info">
                             <a href="http://surl.li/utaqu" className="butn-1 rounded-pill border-2 border border-dark1">
@@ -536,7 +536,7 @@ function App() {
                             <span className="fsz-16 op-4 ms-2 text-capitalize">reviews</span>
                           </div>
                           <div className="main-txt">
-                            I am honestly blown away by the quality of the design! I would definitely use hamida for all my project needs in the future.
+                            I am honestly blown away by the quality of the design! I would definitely use amit for all my project needs in the future.
                           </div>
                           <div className="user-info">
                             <a href="http://surl.li/utapt" className="butn-1 rounded-pill border-2 border border-dark1">
@@ -599,13 +599,13 @@ function App() {
                     </li>
                   </ul>
                   <div className="social_links behen d-none">
-                    <a href="https://www.behance.net/hamida_jannat">
+                    <a href="#">
                       <i className="uil uil-behance"></i>
                     </a>
-                    <a href="https://www.instagram.com/hamida_jannat20/">
+                    <a href="#">
                       <i className="uil uil-instagram"></i>
                     </a>
-                    <a href="https://dribbble.com/hamida_jannat">
+                    <a href="#">
                       <i className="uil uil-dribbble"></i>
                     </a>
                   </div>
@@ -619,7 +619,7 @@ function App() {
                 <img src="/assets/img/logo_footer.png" width="100%" alt="" />
               </div>
               <p className="fsz-16 mt-50 black">
-                Copyright: © 2024 by
+                Copyright: © 2024 by 
                 <a href="#" className="cr-dark1">amit_sharma</a>
               </p>
             </div>
