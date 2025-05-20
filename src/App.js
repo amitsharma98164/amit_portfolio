@@ -133,12 +133,12 @@ function App() {
                         </div>
                         <h1 className="bold">
                            <div className="text-row">
-                              <div className="txt">Hello, I'm Amit Sharma</div>
+                              <div className="txt">Hello, I'm Amit Sharma </div>
                               <img src="/assets/img/vec2.svg" alt="" className="shap" />
                               Expert
                            </div>
-                           <div className="text-row">WordPress</div>
-                           <div className="text-row">Developer</div>
+                           <div className="text-row">WordPress </div>
+                           <div className="text-row"> Developer</div>
                         </h1>
                         <div className="text green fsz-21 fw-500 mt-50 col-lg-5 offset-lg-2">
                            <span className="cr-dark1 d-inline">

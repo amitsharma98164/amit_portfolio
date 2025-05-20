@@ -283,7 +283,8 @@
     font-size: 25px;
   }
   .tc-header-st8 .content h1 .text-row {
-    display: inline;
+    display: inline-block;
+    padding-left: 8px;
   }
   .tc-header-st8 .content h1 .text-row .txt {
     font-size: 25px;
