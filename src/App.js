@@ -127,9 +127,9 @@ function App() {
                            <span className="cr-dark1 d-inline">
                            Website &amp; Plugin Developer | WooCommerce &amp; API Integration
                            </span>
-                           Working with 300+ clients worldwide. 4 years of experience
+                           Working with 300+ clients worldwide. 5 years of experience 
                            <span className="cr-dark1 d-inline">
-                           in PHP, WordPress, and custom plugin development. 😃
+                            in PHP, WordPress, and custom plugin development. 😃
                            </span>
                         </div>
                      </div>
@@ -226,7 +226,7 @@ function App() {
                   <div className="col-lg-4 offset-lg-1">
                     <div className="text-content">
                       <div className="text fsz-16 green mt-40">
-                        With 4 years of experience in PHP and WordPress development, my journey began with building simple themes and plugins, which soon turned into a full-time passion. What excites me the most about WordPress development is the ability to create custom solutions that enhance website performance, security, and user experience.
+                        With 5 years of experience in PHP and WordPress development, my journey began with building simple themes and plugins, which soon turned into a full-time passion. What excites me the most about WordPress development is the ability to create custom solutions that enhance website performance, security, and user experience.
                       </div>
                       <div className="text fsz-16 cr-777 mt-40">
                         <span className="cr-dark1 fw-bold">
@@ -492,7 +492,7 @@ function App() {
                             <span className="fsz-16 op-4 ms-2 text-capitalize">reviews</span>
                           </div>
                           <div className="main-txt">
-                            I showed her my hand drawn mockup and what someone else had done with it and she took it and far exceeded my vision for the landing page and design. I HIGHLY recommend Amit
+                            I showed him my hand drawn mockup and what someone else had done with it and he took it and far exceeded my vision for the landing page and design. I HIGHLY recommend Amit
                           </div>
                           <div className="user-info">
                             <a href="http://surl.li/utaqu" className="butn-1 rounded-pill border-2 border border-dark1">
@@ -602,7 +602,7 @@ function App() {
                 <img src="/assets/img/logo_footer.png" width="100%" alt="" />
               </div>
               <p className="fsz-16 mt-50 black">
-                Copyright: © 2024 by 
+                Copyright: © 2025 by  
                 <a href="#" className="cr-dark1">amit_sharma</a>
               </p>
             </div>
